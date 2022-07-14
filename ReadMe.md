@@ -77,11 +77,6 @@ LucaMail can be installed in two ways.
   cd release && ./LucaMail-0.0.1-beta.AppImage
   ```
 
-## Preview
-
-<img src="https://github.com/wholespace/electron-LucaMail/blob/master/src/Static/ssCreamRose.png" alt="LucaMail">
-<img src="https://github.com/wholespace/electron-LucaMail/blob/master/src/Static/ssDark.png" alt="LucaMail">
-
 ## Roadmap
 
 See the [open issues](https://github.com/wholespace/electron-LucaMail/issues) for a list of proposed features (and known issues).
