@@ -120,4 +120,4 @@ Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/wholespa
 If you find this project as useful then do donate so that the project is maintained up-to date.
 use this platform for donation.
 
-- [kofi-com](https://ko-fi.com/raghavyuva)
+- [kofi-com](https://ko-fi.com/wholespace)
