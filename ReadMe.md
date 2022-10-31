@@ -101,16 +101,3 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/wholespace/electron-LucaMail/blob/master/LICENSE) for more information.  
 [![License](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://github.com/wholespace/electron-LucaMail/blob/master/LICENSE)
-
-## Authors
-
-- **Raghavyuva** - _Comp Sci Student_ - [Raghavyuva](https://raghavyuva.com/) - _All Work_
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wholespace.netlify.app)
-
-## Donate
-
-If you find this project as useful then do donate so that the project is maintained up-to date.
-use this platform for donation.
-
-- [kofi-com](https://ko-fi.com/wholespace)
