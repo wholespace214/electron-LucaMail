@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://wholespace.netlify.app">
+  <a href="https://wholespace.space">
 <h3 align="center"><img src="https://imgur.com/tcrXEKK.png" alt="LucaMail"><br>LucaMail <i>v0.0.1-beta</i></h3>  </a>
   <p align="center">
     An Awesome Cross Platform Email Client!
@@ -9,11 +9,11 @@
     <br/>
     <br/>
     <br/>
-    <a href="https://wholespace.netlify.app">Website</a>
+    <a href="https://wholespace.space">Website</a>
     .
-    <a href="https://github.com/wholespace/electron-LucaMail/issues">Report Bug</a>
+    <a href="https://github.com/wholespace214/electron-LucaMail/issues">Report Bug</a>
     .
-    <a href="https://github.com/wholespace/electron-LucaMail/issues">Request Feature</a>
+    <a href="https://github.com/wholespace214/electron-LucaMail/issues">Request Feature</a>
     .
     <a href="https://discord.gg/BwwMtmXs">Discord Group</a>
   </p>
@@ -26,7 +26,7 @@
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
     - [Creating A Pull Request](#creating-a-pull-request)
-  - [License](https://github.com/wholespace/electron-LucaMail/blob/master/LICENSE)
+  - [License](https://github.com/wholespace214/electron-LucaMail/blob/master/LICENSE)
   - [Authors](#authors)
   - [Donate](#donate)
 
@@ -58,10 +58,10 @@ LucaMail can be installed in two ways.
 
 - Releases
 
-  head on to [Releases](https://github.com/wholespace/electron-LucaMail/releases/latest) and find out the Suitable binary for your OS. and set executable permissions and run it.
+  head on to [Releases](https://github.com/wholespace214/electron-LucaMail/releases/latest) and find out the Suitable binary for your OS. and set executable permissions and run it.
 
   ```sh
-  wget https://github.com/wholespace/electron-LucaMail/releases/latest/download/LucaMail-0.0.1-beta.AppImage
+  wget https://github.com/wholespace214/electron-LucaMail/releases/latest/download/LucaMail-0.0.1-beta.AppImage
   chmod u+x LucaMail-0.0.1-beta.AppImage
   ./LucaMail-0.0.1-beta.AppImage
   ```
@@ -71,7 +71,7 @@ LucaMail can be installed in two ways.
   LucaMail can be built by it's code.
 
   ```sh
-  git clone https://github.com/wholespace/electron-LucaMail.git
+  git clone https://github.com/wholespace214/electron-LucaMail.git
   npm install --save
   npm run build
   cd release && ./LucaMail-0.0.1-beta.AppImage
@@ -79,13 +79,13 @@ LucaMail can be installed in two ways.
 
 ## Roadmap
 
-See the [open issues](https://github.com/wholespace/electron-LucaMail/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/wholespace214/electron-LucaMail/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/wholespace/electron-LucaMail/issues/new) to discuss it, or directly create a pull request after you edit the _README.md_ file with necessary changes.
+- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/wholespace214/electron-LucaMail/issues/new) to discuss it, or directly create a pull request after you edit the _README.md_ file with necessary changes.
 - Please make sure you check your spelling and grammar.
 - Create individual PR for each suggestion.
 
@@ -99,5 +99,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/wholespace/electron-LucaMail/blob/master/LICENSE) for more information.  
-[![License](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://github.com/wholespace/electron-LucaMail/blob/master/LICENSE)
+Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/wholespace214/electron-LucaMail/blob/master/LICENSE) for more information.  
+[![License](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://github.com/wholespace214/electron-LucaMail/blob/master/LICENSE)
